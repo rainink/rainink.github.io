@@ -5,9 +5,9 @@
   <subtitle>才高粑斗，学负五车</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.gofunink.top/"/>
+  <link href="//http://www.gofunink.top/"/>
   <updated>2017-11-10T02:52:49.506Z</updated>
-  <id>http://www.gofunink.top/</id>
+  <id>//http://www.gofunink.top/</id>
   
   <author>
     <name>gofunink</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Test Tags</title>
-    <link href="http://www.gofunink.top/2017/11/10/test-tags/"/>
-    <id>http://www.gofunink.top/2017/11/10/test-tags/</id>
+    <link href="//http://www.gofunink.top/2017/11/10/test-tags/"/>
+    <id>//http://www.gofunink.top/2017/11/10/test-tags/</id>
     <published>2017-11-10T02:24:07.000Z</published>
     <updated>2017-11-10T02:52:49.506Z</updated>
     
@@ -35,19 +35,19 @@
     
     </summary>
     
-      <category term="Hexo教程" scheme="http://www.gofunink.top/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+      <category term="Hexo教程" scheme="//http://www.gofunink.top/categories/Hexo%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="大数据" scheme="http://www.gofunink.top/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+      <category term="大数据" scheme="//http://www.gofunink.top/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
     
-      <category term="HTML" scheme="http://www.gofunink.top/tags/HTML/"/>
+      <category term="HTML" scheme="//http://www.gofunink.top/tags/HTML/"/>
     
   </entry>
   
   <entry>
     <title>blog</title>
-    <link href="http://www.gofunink.top/2017/11/07/blog/"/>
-    <id>http://www.gofunink.top/2017/11/07/blog/</id>
+    <link href="//http://www.gofunink.top/2017/11/07/blog/"/>
+    <id>//http://www.gofunink.top/2017/11/07/blog/</id>
     <published>2017-11-07T11:28:53.544Z</published>
     <updated>2017-11-07T11:29:58.726Z</updated>
     
@@ -68,8 +68,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.gofunink.top/2017/11/06/hello-world/"/>
-    <id>http://www.gofunink.top/2017/11/06/hello-world/</id>
+    <link href="//http://www.gofunink.top/2017/11/06/hello-world/"/>
+    <id>//http://www.gofunink.top/2017/11/06/hello-world/</id>
     <published>2017-11-06T08:53:12.995Z</published>
     <updated>2017-11-06T08:53:12.996Z</updated>
     
