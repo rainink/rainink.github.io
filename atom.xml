@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="//http://www.gofunink.top/"/>
-  <updated>2017-11-10T02:37:11.896Z</updated>
+  <updated>2017-11-10T02:52:49.506Z</updated>
   <id>//http://www.gofunink.top/</id>
   
   <author>
@@ -20,23 +20,27 @@
     <title>Test Tags</title>
     <link href="//http://www.gofunink.top/2017/11/10/test-tags/"/>
     <id>//http://www.gofunink.top/2017/11/10/test-tags/</id>
-    <published>2017-11-10T02:24:07.672Z</published>
-    <updated>2017-11-10T02:37:11.896Z</updated>
+    <published>2017-11-10T02:24:07.000Z</published>
+    <updated>2017-11-10T02:52:49.506Z</updated>
     
-    <content type="html"><![CDATA[<p>date: 2017-11-10 10:24:07<br>categories: “Hexo教程”<br>tags: </p><pre><code>- 大数据- HTML</code></pre><h3 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h3><p>hello everyone</p>]]></content>
+    <content type="html"><![CDATA[<h3 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h3><p>hello everyone</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;date: 2017-11-10 10:24:07&lt;br&gt;categories: “Hexo教程”&lt;br&gt;tags: &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;- 大数据
-- HTML
-&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;hello&quot;&gt;&lt;a href=&quot;#hello&quot; clas
+        &lt;h3 id=&quot;hello&quot;&gt;&lt;a href=&quot;#hello&quot; class=&quot;headerlink&quot; title=&quot;hello&quot;&gt;&lt;/a&gt;hello&lt;/h3&gt;&lt;p&gt;hello everyone&lt;/p&gt;
+
       
     
     </summary>
     
+      <category term="Hexo教程" scheme="//http://www.gofunink.top/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="大数据" scheme="//http://www.gofunink.top/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+      <category term="HTML" scheme="//http://www.gofunink.top/tags/HTML/"/>
     
   </entry>
   

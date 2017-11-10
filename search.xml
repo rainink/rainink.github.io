@@ -3,7 +3,14 @@
   <entry>
     <title><![CDATA[Test Tags]]></title>
     <url>%2F2017%2F11%2F10%2Ftest-tags%2F</url>
-    <content type="text"><![CDATA[date: 2017-11-10 10:24:07categories: “Hexo教程”tags: - 大数据 - HTML hellohello everyone]]></content>
+    <content type="text"><![CDATA[hellohello everyone]]></content>
+      <categories>
+        <category>Hexo教程</category>
+      </categories>
+      <tags>
+        <tag>大数据</tag>
+        <tag>HTML</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[blog]]></title>
