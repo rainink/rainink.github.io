@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Test Tags]]></title>
+    <url>%2F2017%2F11%2F10%2Ftest-tags%2F</url>
+    <content type="text"><![CDATA[date: 2017-11-10 10:24:07categories: “Hexo教程”tags: - 大数据 - HTML hellohello everyone]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[blog]]></title>
     <url>%2F2017%2F11%2F07%2Fblog%2F</url>
     <content type="text"><![CDATA[欢迎来到我的界面]]></content>
