@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[test blog]]></title>
+    <url>%2F2017%2F11%2F13%2Ftest-blog%2F</url>
+    <content type="text"><![CDATA[测试一下测试一下测试一下测试一下测试一下测试一下测试一下测试一下测试一下测试一下测试一下测试一下测试一下测试一下]]></content>
+      <categories>
+        <category>Hexo 测试</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2017%2F11%2F13%2Ftest%2F</url>
+    <content type="text"><![CDATA[测试一下]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[blog]]></title>
     <url>%2F2017%2F11%2F10%2Fblog%2F</url>
     <content type="text"><![CDATA[###这是blog的测试畅言评论的界面 大家试一下能不能评论 谢谢]]></content>
@@ -22,10 +41,5 @@
         <tag>大数据</tag>
         <tag>HTML</tag>
       </tags>
-  </entry>
-  <entry>
-    <title></title>
-    <url>%2FCNAME.html</url>
-    <content type="text"><![CDATA[www.gofunink.top]]></content>
   </entry>
 </search>

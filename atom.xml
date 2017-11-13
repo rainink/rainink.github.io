@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="//http://www.gofunink.top/"/>
-  <updated>2017-11-10T08:12:45.376Z</updated>
+  <updated>2017-11-13T07:14:50.546Z</updated>
   <id>//http://www.gofunink.top/</id>
   
   <author>
@@ -15,6 +15,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test blog</title>
+    <link href="//http://www.gofunink.top/2017/11/13/test-blog/"/>
+    <id>//http://www.gofunink.top/2017/11/13/test-blog/</id>
+    <published>2017-11-13T06:59:41.000Z</published>
+    <updated>2017-11-13T07:14:50.546Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试一下<br>测试一下<br>测试一下<br>测试一下测试一下测试一下<br>测试一下<br>测试一下<br>测试一下<br>测试一下<br>测试一下<br>测试一下<br>测试一下<br>测试一下</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;测试一下&lt;br&gt;测试一下&lt;br&gt;测试一下&lt;br&gt;测试一下测试一下测试一下&lt;br&gt;测试一下&lt;br&gt;测试一下&lt;br&gt;测试一下&lt;br&gt;测试一下&lt;br&gt;测试一下&lt;br&gt;测试一下&lt;br&gt;测试一下&lt;br&gt;测试一下&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="Hexo 测试" scheme="//http://www.gofunink.top/categories/Hexo-%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="hexo" scheme="//http://www.gofunink.top/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="//http://www.gofunink.top/2017/11/13/test/"/>
+    <id>//http://www.gofunink.top/2017/11/13/test/</id>
+    <published>2017-11-13T06:58:17.000Z</published>
+    <updated>2017-11-13T06:59:12.830Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试一下</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;测试一下&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="//http://www.gofunink.top/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>blog</title>
