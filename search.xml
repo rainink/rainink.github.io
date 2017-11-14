@@ -42,24 +42,4 @@
         <tag>HTML</tag>
       </tags>
   </entry>
-  <entry>
-    <title></title>
-    <url>%2FCNAME.html</url>
-    <content type="text"><![CDATA[www.gofunink.top]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[about]]></title>
-    <url>%2Fabout%2Findex.html</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[categories]]></title>
-    <url>%2Fcategories%2Findex.html</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[tags]]></title>
-    <url>%2Ftags%2Findex.html</url>
-    <content type="text"></content>
-  </entry>
 </search>
